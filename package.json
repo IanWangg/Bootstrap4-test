@@ -1,0 +1,34 @@
+{
+  "name": "confusion",
+  "version": "1.0.0",
+  "description": "This is a website for Ristorante Con Fusion",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "author": "Yiran Wang",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IanWangg/BootStrap-Test.git"
+  },
+  "keywords": [
+    "A",
+    "test",
+    "for",
+    "bootstrap"
+  ],
+  "bugs": {
+    "url": "https://github.com/IanWangg/BootStrap-Test/issues"
+  },
+  "homepage": "https://github.com/IanWangg/BootStrap-Test#readme",
+  "dependencies": {
+    "boostrap": "^2.0.0",
+    "jquery": "^3.4.1"
+  }
+}
