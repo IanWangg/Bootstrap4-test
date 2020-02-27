@@ -29,6 +29,7 @@
   "homepage": "https://github.com/IanWangg/BootStrap-Test#readme",
   "dependencies": {
     "boostrap": "^2.0.0",
+    "bootstrap": "^4.4.1",
     "jquery": "^3.4.1"
   }
 }
